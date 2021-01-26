@@ -41,7 +41,7 @@
         "secondary_nav_links": [
             {
                 "label": "Contact",
-                "url": "<div mailto:",
+                "url": "<div mailto:sme",
                 "style": "link"
             },
             {
