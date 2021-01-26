@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: Wallets
+    title: About Us
     subtitle: ''
     align: center
     background_color: secondary
