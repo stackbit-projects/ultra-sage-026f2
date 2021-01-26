@@ -18,7 +18,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: small
-    padding_bottom: none
+    padding_bottom: small
     background_color: secondary
     video_embed_html: ''
     background_image: images/5.jpg
