@@ -14,7 +14,7 @@ sections:
         style: secondary
     image: images/bold/feature-1.svg
     image_alt: Hero section placeholder image
-    media_position: left
+    media_position: right
     media_width: fifty
     align: left
     padding_top: large
