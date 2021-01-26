@@ -26,7 +26,7 @@ sections:
       allow="accelerometer; autoplay; clipboard-write; encrypted-media;
       gyroscope; picture-in-picture" allowfullscreen></iframe>
     background_image: images/bold/post-4.png
-    background_image_opacity: 5
+    background_image_opacity: 10
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
