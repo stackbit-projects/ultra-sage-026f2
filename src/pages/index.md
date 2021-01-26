@@ -170,7 +170,7 @@ sections:
     actions:
       - label: Buy Cardano
         url: /pricing
-        style: primary
+        style: secondary
     actions_position: bottom
     align: center
     padding_top: large
