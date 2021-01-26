@@ -10,15 +10,15 @@ sections:
     features:
       - title: Pool Admin
         subtitle: ''
-        content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |+
+          Hello fellow stakers,
+
+          It is my pleasure to have you on-board.
 
 
 
+          Feel free to contact me at: swell-pool@pm.me
 
-          email@example.com
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
