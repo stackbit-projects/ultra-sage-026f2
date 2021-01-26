@@ -103,7 +103,7 @@ sections:
           We would love to help you in any way possible to further your goals.
         actions:
           - label: Connect to Telegram
-            url: /style-guide
+            url: 'https://t.me/joinchat/Dv0g6pp4470j-iy4'
             style: primary
             has_icon: true
             icon: arrow-right
