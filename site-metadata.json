@@ -17,11 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "Wallets",
-                "url": "/about",
-                "style": "link"
-            },
-            {
                 "label": "Contact Us",
                 "url": "/general-enquiries",
                 "style": "link"
