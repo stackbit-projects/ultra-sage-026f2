@@ -170,7 +170,7 @@ sections:
         content_align: left
         actions:
           - label: Get Daedalus
-            url: lorem-ipsum
+            url: 'https://daedaluswallet.io/en/download/'
             style: primary
             has_icon: true
             icon: arrow-right
