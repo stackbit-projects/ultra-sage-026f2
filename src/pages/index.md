@@ -139,6 +139,7 @@ sections:
         url: 'https://iohk.io/en/blog/posts/page-1/'
         style: secondary
         has_icon: true
+        icon: arrow-right
     actions_position: right
     actions_width: fourty
     align: left
