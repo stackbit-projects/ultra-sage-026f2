@@ -17,7 +17,7 @@ sections:
     media_position: right
     media_width: fifty
     align: left
-    padding_top: small
+    padding_top: none
     padding_bottom: none
     background_color: secondary
     video_embed_html: ''
