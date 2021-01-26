@@ -168,7 +168,7 @@ sections:
     content: |
       Our referral code below helps us maintain this website.
     actions:
-      - label: Button
+      - label: 'Buy '
         url: /pricing
         style: primary
     actions_position: bottom
