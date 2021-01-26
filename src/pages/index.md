@@ -102,7 +102,7 @@ sections:
         content: |
           We would love to help you in any way possible to further your goals.
         actions:
-          - label: Learn More
+          - label: Telegram
             url: /style-guide
             style: primary
             has_icon: true
