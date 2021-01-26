@@ -180,7 +180,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - title: Cardano Wallets
-    subtitle: lorem-ipsum
+    subtitle: ''
     actions: []
     grid_items: []
     grid_cols: three
