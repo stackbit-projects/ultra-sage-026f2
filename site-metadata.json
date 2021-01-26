@@ -7,7 +7,7 @@
     "base_font": "serif",
     "header": {
         "title": "DIY",
-        "logo": "images/images.png",
+        "logo": "images/logo-4.svg",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
         "primary_nav_links": [
