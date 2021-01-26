@@ -18,7 +18,7 @@
             },
             {
                 "label": "Contact Us",
-                "url": "/general-enquiries",
+                "url": "email@example.com",
                 "style": "link"
             }
         ],
