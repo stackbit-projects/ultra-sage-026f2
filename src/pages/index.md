@@ -24,7 +24,7 @@ sections:
     background_image: images/noise.png
     background_image_opacity: 1
   - type: grid_section
-    title: Cards Grid Section
+    title: ''
     subtitle: Grid Section Example
     grid_items:
       - title: High Availability
