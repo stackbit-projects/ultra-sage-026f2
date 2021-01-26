@@ -156,7 +156,7 @@ sections:
         actions:
           - label: Get Adalite
             url: lorem-ipsum
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
