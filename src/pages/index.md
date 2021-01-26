@@ -165,20 +165,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: cta_section
-    title: Continue stacking Cardano!
-    content: >
-      Using our Binance sign-up referral code link below helps us maintain this
-      website. 
-    actions:
-      - label: Buy Cardano
-        url: /pricing
-        style: secondary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
   - title: Cardano Wallets
     subtitle: ''
     actions: []
@@ -252,5 +238,19 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: cta_section
+    title: Continue stacking Cardano!
+    content: >
+      Using our Binance sign-up referral code link below helps us maintain this
+      website. 
+    actions:
+      - label: Buy Cardano
+        url: /pricing
+        style: secondary
+    actions_position: bottom
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: secondary
 template: advanced
 ---
