@@ -146,16 +146,7 @@ sections:
     background_color: primary
   - title: Cardano Wallets
     subtitle: ''
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     grid_items:
       - title: Adalite
         subtitle: ''
