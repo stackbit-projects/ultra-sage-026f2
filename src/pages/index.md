@@ -79,13 +79,7 @@ sections:
         content: >
           In this video we go over how to stake you ADA to our pool using
           AdaLite.
-        actions:
-          - label: Youtube
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/classic/feature-1.png
         image_alt: Feature 1 placeholder image
         media_position: right
