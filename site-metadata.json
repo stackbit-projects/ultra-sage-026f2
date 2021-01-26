@@ -42,7 +42,7 @@
             {
                 "label": "Contact",
                 "url": "/contact",
-                "style": "primary"
+                "style": "secondary"
             },
             {
                 "label": "Get Cardano",
