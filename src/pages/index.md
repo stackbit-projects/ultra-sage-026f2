@@ -134,7 +134,7 @@ sections:
       Follow the most up-to-date news about Cardano on the IOHK blog.
     actions:
       - label: Learn More
-        url: /features
+        url: 'https://iohk.io/en/blog/posts/page-1/'
         style: secondary
     actions_position: right
     actions_width: fourty
