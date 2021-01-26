@@ -99,10 +99,8 @@ sections:
           encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
       - title: Connect using Telegram
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          We would love to help you in any way possible to further your goals.
         actions:
           - label: Learn More
             url: /style-guide
