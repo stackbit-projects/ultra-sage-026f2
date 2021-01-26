@@ -7,7 +7,7 @@ sections:
     content: ''
     actions:
       - label: Pool Stats
-        url: /pricing
+        url: 'https://adapools.org/'
         style: primary
       - label: Block Explorer
         url: /features
