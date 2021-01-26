@@ -144,7 +144,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: Cardano Wallets
+  - title: Cardano Staking Wallets
     subtitle: ''
     actions: []
     grid_items:
