@@ -94,7 +94,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: Features Section
+    title: Staking With Us
     subtitle: ''
     features:
       - title: The Big Title For the Feature
