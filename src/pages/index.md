@@ -132,22 +132,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: cta_section
-    title: Get the latest Cardano News
-    content: |
-      Latest developments about the Cardano ecosystem on the IOHK blog.
-    actions:
-      - label: Learn More
-        url: 'https://iohk.io/en/blog/posts/page-1/'
-        style: secondary
-        has_icon: true
-        icon: arrow-right
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - title: ''
     subtitle: ''
     features:
@@ -292,5 +276,21 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+  - type: cta_section
+    title: Get the latest Cardano News
+    content: |
+      Latest developments about the Cardano ecosystem on the IOHK blog.
+    actions:
+      - label: Learn More
+        url: 'https://iohk.io/en/blog/posts/page-1/'
+        style: secondary
+        has_icon: true
+        icon: arrow-right
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
 template: advanced
 ---
