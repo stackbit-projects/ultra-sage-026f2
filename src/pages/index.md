@@ -161,7 +161,7 @@ sections:
             icon: arrow-right
             icon_position: right
             new_window: false
-            no_follow: false
+            no_follow: true
             type: action
         actions_align: left
         actions_width: auto
