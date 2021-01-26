@@ -131,7 +131,7 @@ sections:
           charset="utf-8"></script>
     feature_padding_vert: large
     align: center
-    background_color: secondary
+    background_color: primary
   - title: ''
     subtitle: ''
     features:
