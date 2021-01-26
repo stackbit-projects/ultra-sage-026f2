@@ -153,6 +153,12 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
+        video_embed_html: >-
+          <a class="twitter-timeline"
+          href="https://twitter.com/charliexyz_?ref_src=twsrc%5Etfw">Tweets by
+          charliexyz_</a> <script async
+          src="https://platform.twitter.com/widgets.js"
+          charset="utf-8"></script>
     feature_padding_vert: large
     align: center
     background_color: secondary
