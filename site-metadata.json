@@ -17,7 +17,7 @@
                 "style": "link"
             },
             {
-                "label": "Email",
+                "label": "About",
                 "url": "email@example.com",
                 "style": "primary"
             }
