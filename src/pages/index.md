@@ -4,8 +4,7 @@ sections:
   - type: hero_section
     title: SWELL
     subtitle: Cardano Stake Pool
-    content: |
-      Decentralized proof of stake distributed ledger technology.
+    content: ''
     actions:
       - label: Try Free
         url: /pricing
