@@ -184,7 +184,7 @@ sections:
     actions: []
     grid_items:
       - title: Adalite
-        subtitle: 'http://adalite.com'
+        subtitle: 'http://adalite.co'
         title_align: left
         content: >-
           ## Lorem ipsum
