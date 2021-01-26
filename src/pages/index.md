@@ -181,7 +181,7 @@ sections:
           enthusiasts.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Get Daedalus
             url: lorem-ipsum
             style: link
             has_icon: false
