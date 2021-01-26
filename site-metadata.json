@@ -13,7 +13,7 @@
         "primary_nav_links": [
             {
                 "label": "Home",
-                "url": "/features",
+                "url": "/",
                 "style": "link"
             },
             {
