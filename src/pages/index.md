@@ -138,6 +138,7 @@ sections:
       - label: Learn More
         url: 'https://iohk.io/en/blog/posts/page-1/'
         style: secondary
+        has_icon: true
     actions_position: right
     actions_width: fourty
     align: left
