@@ -114,6 +114,12 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/N4maw_9NzoI?controls=0"
+          frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+          encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
       - title: The Big Title For the Feature
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
