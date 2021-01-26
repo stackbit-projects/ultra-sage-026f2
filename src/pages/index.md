@@ -29,10 +29,9 @@ sections:
     grid_items:
       - title: High Availability
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Our servers are spread across highly available datacenters in Europe
+          ensuring exceptional uptime and minimal loss of service.
         content_align: left
         actions:
           - label: Learn More
