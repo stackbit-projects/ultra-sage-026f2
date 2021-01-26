@@ -22,7 +22,7 @@ sections:
     background_color: primary
     video_embed_html: ''
     background_image: images/noise.png
-    background_image_opacity: 100
+    background_image_opacity: 1
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
