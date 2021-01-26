@@ -19,7 +19,7 @@
             {
                 "label": "Contact Us",
                 "url": "email@example.com",
-                "style": "primary"
+                "style": "secondary"
             }
         ],
         "has_secondary_nav": false,
