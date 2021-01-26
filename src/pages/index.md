@@ -262,7 +262,7 @@ sections:
       - title: ''
         subtitle: ''
         content: >
-          ## Pool Operator
+          ## About Your Pool Operator
 
 
           With 13 years of IT Infrastructure support experience as well as
