@@ -266,9 +266,9 @@ sections:
 
 
           With 13 years of IT Infrastructure support experience as well as
-          investments and technical knowledge of cryptos since 2016, I have been
-          exposed to various fintech modalities I believe I have acquired a good
-          set of skills to navigate dawn crypto era.
+          investments and technical knowledge of cryptocurrencies since 2016, I
+          believe I have acquired a good set of skills to navigate dawn crypto
+          era and help anyone in need along the way.
 
 
           Please feel free to contact me with any questions or concerns at:
