@@ -20,11 +20,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/eRQAnn0yLqc" frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>
+    video_embed_html: ''
     background_image: images/bold/post-4.png
     background_image_opacity: 10
   - type: grid_section
