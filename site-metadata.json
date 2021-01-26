@@ -18,7 +18,7 @@
             },
             {
                 "label": "Contact",
-                "url": "general-enquiries",
+                "url": "/general-enquiries",
                 "style": "link"
             },
             {
