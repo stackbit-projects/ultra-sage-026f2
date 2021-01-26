@@ -1,6 +1,6 @@
 {
     "description": "Swell Pool",
-    "layout": "full-width",
+    "layout": "boxed",
     "style": "minimal",
     "palette": "blue",
     "mode": "light",
