@@ -6,7 +6,7 @@ sections:
     subtitle: Cardano Stake Pool
     content: ''
     actions:
-      - label: Try Free
+      - label: Pool
         url: /pricing
         style: primary
       - label: Learn More
