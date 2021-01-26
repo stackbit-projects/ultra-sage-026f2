@@ -22,7 +22,7 @@ sections:
     background_color: primary
     video_embed_html: ''
     background_image: images/bold/post-4.png
-    background_image_opacity: 10
+    background_image_opacity: 0
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
