@@ -113,7 +113,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Follow us on Twitter
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: ''
         content: |
           We would love to hear from you and interact with you on Twitter.
         actions:
