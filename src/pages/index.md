@@ -102,7 +102,7 @@ sections:
         actions:
           - label: Telegram
             url: 'https://t.me/joinchat/Dv0g6pp4470j-iy4'
-            style: primary
+            style: link
             has_icon: true
             icon: arrow-right
             icon_position: right
