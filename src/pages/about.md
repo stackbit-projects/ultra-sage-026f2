@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Adalite
+      - title: Pool Admin
         subtitle: I have spet
         content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
