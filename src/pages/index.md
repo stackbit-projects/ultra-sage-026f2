@@ -88,10 +88,9 @@ sections:
         media_width: fifty
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/N4maw_9NzoI?controls=0"
-          frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-          encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
+          src="https://www.youtube.com/embed/hDFYvQYONIA" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+          gyroscope; picture-in-picture" allowfullscreen></iframe>
       - title: Connect using Telegram
         content: |
           We would love to help you in any way possible to further your goals.
