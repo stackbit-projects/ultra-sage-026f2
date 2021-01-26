@@ -211,27 +211,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: blog_feed_section
-    title: Latest Articles
-    subtitle: ''
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_image: true
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - type: cta_section
     title: Continue stacking Cardano!
     content: >
