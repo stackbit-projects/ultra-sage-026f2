@@ -148,6 +148,42 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+  - title: ''
+    subtitle: ''
+    features:
+      - title: ''
+        subtitle: ''
+        content: >
+          ## About Your Pool Operator
+
+
+          With 13 years of IT Infrastructure support experience as well as
+          investments and technical knowledge of cryptocurrencies since 2016, I
+          believe I have acquired a good set of skills to navigate the dawn of
+          the crypto era and help anyone in need along the way.
+
+
+          Please feel free to contact me with any questions or concerns at:
+          swell-pool@pm.me
+        actions: []
+        image_alt: ''
+        video_embed_html: ''
+        media_position: right
+        media_width: fifty
+        align: left
+        type: feature
+        image: images/about-4.jpg
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
   - title: Cardano Staking Wallets
     subtitle: ''
     actions: []
@@ -256,41 +292,5 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - title: ''
-    subtitle: ''
-    features:
-      - title: ''
-        subtitle: ''
-        content: >
-          ## About Your Pool Operator
-
-
-          With 13 years of IT Infrastructure support experience as well as
-          investments and technical knowledge of cryptocurrencies since 2016, I
-          believe I have acquired a good set of skills to navigate the dawn of
-          the crypto era and help anyone in need along the way.
-
-
-          Please feel free to contact me with any questions or concerns at:
-          swell-pool@pm.me
-        actions: []
-        image_alt: ''
-        video_embed_html: ''
-        media_position: right
-        media_width: fifty
-        align: left
-        type: feature
-        image: images/about-4.jpg
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
 template: advanced
 ---
