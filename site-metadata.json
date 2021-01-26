@@ -9,7 +9,7 @@
         "title": "SWELL POOL",
         "logo": "images/gordon-norman.png",
         "logo_alt": "Swell Cardano Pool",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_links": [
             {
                 "label": "Features",
