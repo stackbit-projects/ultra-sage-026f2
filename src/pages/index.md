@@ -117,7 +117,7 @@ sections:
         content: |
           We would love to hear from you and interact with you on Twitter.
         actions:
-          - label: Learn More
+          - label: Twitter
             url: /style-guide
             style: primary
             has_icon: true
