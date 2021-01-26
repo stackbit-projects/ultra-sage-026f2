@@ -22,7 +22,7 @@ sections:
     background_color: primary
     video_embed_html: ''
     background_image: images/5.jpg
-    background_image_opacity: 20
+    background_image_opacity: 30
   - type: grid_section
     title: ''
     subtitle: ''
