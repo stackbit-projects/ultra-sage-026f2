@@ -12,11 +12,6 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
                 "label": "Pool ID:pool1fxmancs3dmc9l0s7u7zrj8334m9nvzam5t5hnuuf4c7cjr6867m",
                 "url": "/about",
                 "style": "link"
