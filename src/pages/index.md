@@ -291,7 +291,7 @@ sections:
     align: center
     background_color: secondary
   - type: blog_feed_section
-    title: What's New
+    title: Latest Articles
     subtitle: ''
     actions:
       - label: View All
