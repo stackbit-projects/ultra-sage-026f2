@@ -97,7 +97,7 @@ sections:
     title: Staking With Us
     subtitle: ''
     features:
-      - title: The Big Title For the Feature
+      - title: Stake Using AdaLite
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
