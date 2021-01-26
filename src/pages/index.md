@@ -112,7 +112,7 @@ sections:
           We would love to hear from you and interact with you on Twitter.
         actions:
           - label: Twitter
-            url: /style-guide
+            url: 'https://twitter.com'
             style: primary
             has_icon: true
             icon: arrow-right
