@@ -9,7 +9,7 @@ sections:
       - label: Pool Stats
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Block Explorer
         url: /features
         style: secondary
     image: images/bold/feature-1.svg
