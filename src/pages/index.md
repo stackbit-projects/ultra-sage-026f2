@@ -224,17 +224,12 @@ sections:
       - title: Yoroi
         subtitle: ''
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Yoroi is a web light wallet for Cardano. Developed by Emurgo, one of
+          the three organizations behind the Cardano project, the Yoroi Wallet
+          was released in October 2018. As a result, early adopters will need to
+          be wary of the teething issues that commonly affect new wallet
+          releases.
         content_align: left
         actions: []
         actions_align: left
