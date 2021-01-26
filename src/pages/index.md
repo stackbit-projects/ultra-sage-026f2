@@ -174,14 +174,11 @@ sections:
       - title: Daedalus
         subtitle: ''
         title_align: left
-        content: >+
+        content: >
           **Daedalus** is the name of the official cryptocurrency wallet for
           ADA. An open-source software download for Windows and macOS, Daedalus
           provides ADA storage and a host of other features for crypto
-          enthusiasts.
-
-
-
+          enthusiasts new and old alike.
         content_align: left
         actions:
           - label: Get Daedalus
