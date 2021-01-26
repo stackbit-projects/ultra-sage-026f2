@@ -73,7 +73,7 @@ sections:
     background_color: none
   - type: features_section
     title: ''
-    subtitle: ''
+    subtitle: Stay up to date
     features:
       - title: Stake Using AdaLite
         subtitle: ''
