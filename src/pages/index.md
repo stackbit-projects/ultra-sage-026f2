@@ -155,7 +155,7 @@ sections:
         content_align: left
         actions:
           - label: Get Adalite
-            url: ''
+            url: 'https://adalite.io/'
             style: primary
             has_icon: true
             icon: arrow-right
