@@ -33,13 +33,7 @@ sections:
           Our servers are spread across highly available datacenters in Europe
           ensuring exceptional uptime and minimal loss of service.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/classic/icon-1.svg
         image_alt: Section item 1 icon
