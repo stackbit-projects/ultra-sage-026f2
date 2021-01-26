@@ -25,7 +25,7 @@ sections:
       src="https://www.youtube.com/embed/eRQAnn0yLqc" frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media;
       gyroscope; picture-in-picture" allowfullscreen></iframe>
-    background_image: images/noise.png
+    background_image: images/bold/post-4.png
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
