@@ -115,7 +115,7 @@ sections:
             url: 'https://twitter.com'
             style: primary
             has_icon: true
-            icon: twitter
+            icon: arrow-right
             icon_position: right
         image: images/classic/feature-3.png
         image_alt: Feature 3 placeholder image
