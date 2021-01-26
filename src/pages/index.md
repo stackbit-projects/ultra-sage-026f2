@@ -80,10 +80,7 @@ sections:
         subtitle: ''
         content: >
           In this video we go over how to stake you ADA to our pool using
-          AdaLite with our Pool ID:
-
-
-          pool1fxmancs3dmc9l0s7u7zrj8334m9nvzam5t5hnuuf4c7cjr6867m
+          AdaLite.
         actions: []
         image: images/classic/feature-1.png
         image_alt: Feature 1 placeholder image
