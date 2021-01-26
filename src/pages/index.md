@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: SWELL
-    subtitle: Optional hero section subtitle
+    subtitle: Cardano Stake Pool
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
