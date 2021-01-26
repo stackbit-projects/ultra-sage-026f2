@@ -71,7 +71,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-    has_border: true
+    has_border: false
   - type: features_section
     title: ''
     subtitle: ''
