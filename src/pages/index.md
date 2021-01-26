@@ -166,7 +166,7 @@ sections:
   - type: cta_section
     title: Continue stacking Cardano!
     content: |
-      Our referral code below helps us maintain this website.
+      Our referral code to Binance below helps us maintain this website.
     actions:
       - label: Buy Cardano
         url: /pricing
