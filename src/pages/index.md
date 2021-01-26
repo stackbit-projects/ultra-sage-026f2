@@ -265,14 +265,14 @@ sections:
           ## Pool Operator
 
 
-          Having been in crypto since 2016, I have been exposed to various
-          crypto technologies and have acquired a good set of skills to
-          navigate.
+          With 13 years of IT Infrastructure support experience as well as
+          investments and technical knowledge of cryptos since 2016, I have been
+          exposed to various fintech modalities I believe I have acquired a good
+          set of skills to navigate dawn crypto era.
 
 
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          Please feel free to contact me with any questions or concerns at:
+          swell-pool@pm.me
         actions: []
         image_alt: ''
         video_embed_html: ''
