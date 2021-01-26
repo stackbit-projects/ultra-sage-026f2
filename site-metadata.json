@@ -22,11 +22,6 @@
                 "style": "link"
             },
             {
-                "label": "Coinmarketcap",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about",
                 "style": "link"
