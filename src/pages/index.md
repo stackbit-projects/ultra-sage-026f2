@@ -131,7 +131,7 @@ sections:
   - type: cta_section
     title: Learn more about Cardano
     content: |
-      Follow the most up-to-date news about Cardano on the IOHK blog.
+      Latest developments in the Cardano ecosystem on the IOHK blog.
     actions:
       - label: Learn More
         url: 'https://iohk.io/en/blog/posts/page-1/'
