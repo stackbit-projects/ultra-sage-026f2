@@ -208,7 +208,7 @@ sections:
         content_align: left
         actions:
           - label: Get Yoroi
-            url: lorem-ipsum
+            url: 'https://yoroi-wallet.com/#/'
             style: link
             has_icon: false
             icon: arrow-left
