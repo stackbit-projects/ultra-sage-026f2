@@ -83,7 +83,7 @@ sections:
           AdaLite with our Pool ID:
 
 
-          **fdsfewfwe34345fgdfg5465tywgfgsdft3tegar5b3434t22**
+          pool1fxmancs3dmc9l0s7u7zrj8334m9nvzam5t5hnuuf4c7cjr6867m
         actions: []
         image: images/classic/feature-1.png
         image_alt: Feature 1 placeholder image
