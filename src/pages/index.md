@@ -259,7 +259,7 @@ sections:
   - title: About Us
     subtitle: ''
     features:
-      - title: lorem-ipsum
+      - title: ''
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
