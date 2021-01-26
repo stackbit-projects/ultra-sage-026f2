@@ -19,7 +19,7 @@
             {
                 "label": "About",
                 "url": "/about",
-                "style": "primary"
+                "style": "link"
             }
         ],
         "has_secondary_nav": false,
