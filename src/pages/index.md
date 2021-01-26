@@ -245,7 +245,7 @@ sections:
       this website.
     actions:
       - label: Buy Cardano
-        url: /pricing
+        url: 'https://binance.com'
         style: secondary
     actions_position: bottom
     align: center
