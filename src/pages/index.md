@@ -168,7 +168,7 @@ sections:
     content: |
       Our referral code below helps us maintain this website.
     actions:
-      - label: 'Buy '
+      - label: Buy Cardano
         url: /pricing
         style: primary
     actions_position: bottom
