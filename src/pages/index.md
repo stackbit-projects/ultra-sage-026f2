@@ -21,7 +21,7 @@ sections:
     padding_bottom: medium
     background_color: primary
     video_embed_html: ''
-    background_image: images/noise.png
+    background_image: images/5.jpg
     background_image_opacity: 1
   - type: grid_section
     title: ''
