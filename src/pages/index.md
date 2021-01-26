@@ -29,9 +29,8 @@ sections:
     grid_items:
       - title: High Availability
         title_align: left
-        content: >
-          Our servers are spread across highly available datacenters in Europe
-          ensuring exceptional uptime and minimal loss of service.
+        content: |
+          You can find the latest Cardano news on the IOHK blog.
         content_align: left
         actions: []
         actions_align: left
