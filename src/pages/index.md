@@ -261,17 +261,18 @@ sections:
     features:
       - title: ''
         subtitle: ''
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Pool Operator
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Having been in crypto since 2016, I have been exposed to various
+          crypto technologies and have acquired a good set of skills to
+          navigate.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         actions: []
         image_alt: ''
         video_embed_html: ''
