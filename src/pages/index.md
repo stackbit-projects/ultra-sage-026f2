@@ -77,10 +77,9 @@ sections:
     features:
       - title: Stake Using AdaLite
         subtitle: ''
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          In this video we go over how to stake you ADA to our pool using
+          AdaLite.
         actions:
           - label: Youtube
             url: /style-guide
