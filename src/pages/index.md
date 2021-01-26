@@ -153,7 +153,16 @@ sections:
         title_align: left
         content: "**AdaLite**\_formerly known as CardanoLite is a lightweight web\_wallet\_for storing your Cardano safely and securely.\_AdaLite\_is developed by Vaccumlabs, who understood the need of creating a more user-friendly\_wallet\_for Cardano users.\n"
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
