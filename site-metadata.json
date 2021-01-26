@@ -18,7 +18,7 @@
             },
             {
                 "label": "About",
-                "url": "email@example.com",
+                "url": "/about",
                 "style": "primary"
             }
         ],
