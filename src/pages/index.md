@@ -72,7 +72,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: Staking With Us
+    title: ''
     subtitle: ''
     features:
       - title: Stake Using AdaLite
