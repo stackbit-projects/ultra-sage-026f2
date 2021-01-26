@@ -19,7 +19,7 @@ sections:
     align: left
     padding_top: small
     padding_bottom: small
-    background_color: primary
+    background_color: secondary
     video_embed_html: ''
     background_image: images/5.jpg
     background_image_opacity: 25
