@@ -47,7 +47,7 @@
             {
                 "label": "Get Started",
                 "url": "/pricing",
-                "style": "primary"
+                "style": "secondary"
             }
         ],
         "has_anncmnt": true,
