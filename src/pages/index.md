@@ -292,7 +292,7 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: What's New
-    subtitle: Blog Feed Section Example
+    subtitle: ''
     actions:
       - label: View All
         url: /blog
