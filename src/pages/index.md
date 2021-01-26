@@ -12,7 +12,7 @@ sections:
       - label: Block Explorer
         url: /features
         style: secondary
-    image: images/bold/feature-1.svg
+    image: images/412-4127617_cardano-logo-png-cardano-logo-cardano-png-clipart.png
     image_alt: Hero section placeholder image
     media_position: right
     media_width: fifty
