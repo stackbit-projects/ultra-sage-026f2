@@ -260,7 +260,7 @@ sections:
     subtitle: ''
     features:
       - title: ''
-        subtitle: lorem-ipsum
+        subtitle: ''
         content: >-
           ## Lorem ipsum
 
