@@ -35,7 +35,7 @@
                 "style": "secondary"
             }
         ],
-        "has_anncmnt": true,
+        "has_anncmnt": false,
         "anncmnt_content": "Stake to our Pool id:pool1fxmancs3dmc9l0s7u7zrj8334m9nvzam5t5hnuuf4c7cjr6867m\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
