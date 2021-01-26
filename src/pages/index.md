@@ -98,7 +98,7 @@ sections:
           frameborder="0" allow="accelerometer; autoplay; clipboard-write;
           encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-      - title: The Big Title For the Feature
+      - title: Connect using Telegram
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
