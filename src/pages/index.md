@@ -256,7 +256,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - title: About Us
+  - title: ''
     subtitle: ''
     features:
       - title: ''
