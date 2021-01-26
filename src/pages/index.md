@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     background_color: primary
     video_embed_html: ''
-    background_image: images/bold/post-4.png
+    background_image: images/noise.png
     background_image_opacity: 100
   - type: grid_section
     title: Image Grid
