@@ -131,7 +131,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: Learn more about Cardano
+    title: Get the latest Cardano News
     content: |
       Latest developments about the Cardano ecosystem on the IOHK blog.
     actions:
