@@ -130,10 +130,8 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Learn more about Cardano
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      Follow the most up-to-date news about Cardano on the IOHK blog.
     actions:
       - label: Learn More
         url: /features
