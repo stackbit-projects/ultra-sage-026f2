@@ -138,10 +138,8 @@ sections:
         media_width: fifty
       - title: Follow us on Twitter
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          We would love to hear from you and interact with you on Twitter.
         actions:
           - label: Learn More
             url: /style-guide
