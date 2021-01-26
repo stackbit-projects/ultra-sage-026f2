@@ -17,13 +17,13 @@
                 "style": "link"
             },
             {
-                "label": "Contact Us",
-                "url": "/general-enquiries",
+                "label": "Wallets",
+                "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Wallets",
-                "url": "/about",
+                "label": "Contact Us",
+                "url": "/general-enquiries",
                 "style": "link"
             }
         ],
