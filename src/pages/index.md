@@ -17,7 +17,7 @@ sections:
     media_position: right
     media_width: fifty
     align: left
-    padding_top: large
+    padding_top: medium
     padding_bottom: large
     background_color: primary
     video_embed_html: ''
