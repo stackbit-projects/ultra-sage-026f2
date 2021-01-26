@@ -154,7 +154,7 @@ sections:
         media_position: right
         media_width: fifty
         video_embed_html: >-
-          <a class="twitter-timeline"
+          <a class="twitter-timeline" data-width="560" data-height="315"
           href="https://twitter.com/charliexyz_?ref_src=twsrc%5Etfw">Tweets by
           charliexyz_</a> <script async
           src="https://platform.twitter.com/widgets.js"
