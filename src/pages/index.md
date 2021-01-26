@@ -209,7 +209,7 @@ sections:
         actions:
           - label: Get Yoroi
             url: 'https://yoroi-wallet.com/#/'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
