@@ -81,7 +81,7 @@ sections:
         content: ''
         actions:
           - label: Adapool
-            url: lorem-ipsum
+            url: 'https://adapools.org'
             style: primary
             has_icon: true
             icon: arrow-right
