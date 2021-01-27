@@ -6,7 +6,7 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "SWELL POOL",
+        "title": "",
         "logo_alt": "Swell Cardano Pool",
         "has_primary_nav": false,
         "primary_nav_links": [
