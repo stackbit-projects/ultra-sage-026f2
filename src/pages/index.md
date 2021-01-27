@@ -145,7 +145,7 @@ sections:
           <iframe width="500" height="400" frameborder="0"
           src="https://js.adapools.org/widget.html?pool=49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89"><a
           href="https://adapools.org/pool/49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89">Detail</a></iframe>
-        media_position: top
+        media_position: left
         media_width: fifty
         align: right
         type: feature
