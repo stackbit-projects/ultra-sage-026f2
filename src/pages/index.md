@@ -276,9 +276,8 @@ sections:
     type: features_section
   - type: cta_section
     title: Continue stacking Cardano!
-    content: >
-      By using our Binance sign-up referral code link below helps us maintain
-      this website.
+    content: |
+      By and HODL is the name of the game in crypto. Keep stacking!
     actions:
       - label: Buy Cardano
         url: 'https://binance.com'
