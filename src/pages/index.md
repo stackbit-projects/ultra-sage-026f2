@@ -93,7 +93,7 @@ sections:
       - title: Intro to Staking on Adalite
         subtitle: ''
         content: >
-          In this video we go over how to stake you ADA to our pool using
+          In this video they go over how to stake you ADA to a pool using
           AdaLite.
         actions: []
         image: images/classic/feature-1.png
