@@ -77,7 +77,7 @@ sections:
     subtitle: ''
     features:
       - title: Pool Stats
-        subtitle: adapools.org s
+        subtitle: adapools.org statistics
         content: ''
         actions: []
         image_alt: lorem-ipsum
