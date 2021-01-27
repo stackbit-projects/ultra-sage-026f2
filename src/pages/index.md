@@ -80,7 +80,7 @@ sections:
         subtitle: ''
         content: ''
         actions:
-          - label: lorem-ipsum
+          - label: Adapool
             url: lorem-ipsum
             style: primary
             has_icon: false
