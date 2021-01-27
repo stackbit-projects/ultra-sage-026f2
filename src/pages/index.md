@@ -76,7 +76,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Live Pool Stats
+      - title: Adapool Stats
         subtitle: ''
         content: |
           Find the latest trends and live stats on Stackbit
