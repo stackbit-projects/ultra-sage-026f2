@@ -76,6 +76,21 @@ sections:
     title: ''
     subtitle: ''
     features:
+      - title: Pool Info
+        subtitle: ''
+        content: >
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          <iframe width="500" height="272" frameborder="0"
+          src="https://js.adapools.org/widget-dark.html?pool=49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89&whitelabel=true"><a
+          href="https://adapools.org/pool/49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89&whitelabel=true">Detail</a></iframe>
+        media_position: left
+        media_width: fifty
+        align: left
+        type: feature
       - title: Stake Using AdaLite
         subtitle: ''
         content: >
@@ -126,21 +141,6 @@ sections:
           charliexyz_</a> <script async
           src="https://platform.twitter.com/widgets.js"
           charset="utf-8"></script>
-      - title: Pool Info
-        subtitle: ''
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          <iframe width="500" height="272" frameborder="0"
-          src="https://js.adapools.org/widget-dark.html?pool=49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89&whitelabel=true"><a
-          href="https://adapools.org/pool/49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89&whitelabel=true">Detail</a></iframe>
-        media_position: left
-        media_width: fifty
-        align: left
-        type: feature
     feature_padding_vert: large
     align: center
     background_color: secondary
