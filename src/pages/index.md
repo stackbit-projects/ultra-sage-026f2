@@ -6,7 +6,7 @@ sections:
     subtitle: Cardano Stake Pool
     content: ''
     actions:
-      - label: Pool Stats
+      - label: Pool Tool
         url: 'https://adapools.org/'
         style: primary
       - label: Block Explorer
