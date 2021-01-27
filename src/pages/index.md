@@ -147,7 +147,7 @@ sections:
           href="https://adapools.org/pool/49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89">Detail</a></iframe>
         media_position: top
         media_width: fifty
-        align: left
+        align: right
         type: feature
     feature_padding_vert: large
     align: center
