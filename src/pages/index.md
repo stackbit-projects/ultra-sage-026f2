@@ -76,7 +76,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Pool Info
+      - title: Pool Live Stats
         subtitle: ''
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
