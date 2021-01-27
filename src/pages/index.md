@@ -78,8 +78,7 @@ sections:
     features:
       - title: Adapool Stats
         subtitle: ''
-        content: |
-          Find the latest trends and live stats on Stackbit
+        content: ''
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
