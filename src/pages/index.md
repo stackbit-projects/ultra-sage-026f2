@@ -79,16 +79,7 @@ sections:
       - title: Pool Stats
         subtitle: test
         content: ''
-        actions:
-          - label: Adapool
-            url: 'https://adapools.org'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
           <iframe width="500" height="272" frameborder="0"
