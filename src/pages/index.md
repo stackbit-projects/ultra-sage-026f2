@@ -79,7 +79,16 @@ sections:
       - title: Adapool Stats
         subtitle: ''
         content: ''
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         image_alt: lorem-ipsum
         video_embed_html: >-
           <iframe width="500" height="272" frameborder="0"
