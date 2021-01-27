@@ -78,9 +78,8 @@ sections:
     features:
       - title: Live Pool Stats
         subtitle: ''
-        content: |+
+        content: |
           Find the latest trends and live stats on Stackbit
-
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
