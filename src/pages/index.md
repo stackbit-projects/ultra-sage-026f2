@@ -78,9 +78,8 @@ sections:
     features:
       - title: Pool Live Stats
         subtitle: ''
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content: |
+          Find the latest trends and live stats on adapools.org
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
