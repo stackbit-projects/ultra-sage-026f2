@@ -77,7 +77,7 @@ sections:
     subtitle: ''
     features:
       - title: Pool Stats
-        subtitle: ''
+        subtitle: test
         content: ''
         actions:
           - label: Adapool
