@@ -142,7 +142,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          <iframe width="500" height="292" frameborder="0"
+          <iframe width="500" height="290" frameborder="0"
           src="https://js.adapools.org/widget-dark.html?pool=49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89&whitelabel=true"><a
           href="https://adapools.org/pool/49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89&whitelabel=true">Detail</a></iframe>
         media_position: left
