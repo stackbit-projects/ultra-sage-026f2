@@ -7,7 +7,6 @@
     "base_font": "serif",
     "header": {
         "title": "SWELL POOL",
-        "logo": "images/gordon-norman.png",
         "logo_alt": "Swell Cardano Pool",
         "has_primary_nav": false,
         "primary_nav_links": [
