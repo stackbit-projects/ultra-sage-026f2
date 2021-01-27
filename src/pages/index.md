@@ -76,7 +76,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Pool Live Stats
+      - title: Live Pool Stats
         subtitle: ''
         content: |
           Find the latest trends and live stats on adapools.org
