@@ -7,7 +7,7 @@ sections:
     content: ''
     actions:
       - label: Pool Tool
-        url: 'https://adapools.org/'
+        url: 'https://pooltool.io'
         style: primary
       - label: Block Explorer
         url: 'https://adaex.org/'
