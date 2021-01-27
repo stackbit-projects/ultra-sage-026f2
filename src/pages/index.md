@@ -106,7 +106,7 @@ sections:
           src="https://www.youtube.com/embed/hDFYvQYONIA" frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media;
           gyroscope; picture-in-picture" allowfullscreen></iframe>
-      - title: Connect using Telegram
+      - title: Connect on Telegram
         content: |
           We would love to help you in any way possible to further your goals.
         actions:
