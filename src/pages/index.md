@@ -127,7 +127,7 @@ sections:
           src="https://platform.twitter.com/widgets.js"
           charset="utf-8"></script>
       - title: lorem-ipsum
-        subtitle: Pool Info
+        subtitle: Adapools.org
         content: >-
           ## Lorem ipsum
 
