@@ -277,7 +277,7 @@ sections:
   - type: cta_section
     title: Continue stacking Cardano!
     content: |
-      By and HODL is the name of the game in crypto. Keep stacking!
+      Buy and HODL is the name of the game in crypto. Keep stacking!
     actions:
       - label: Buy Cardano
         url: 'https://binance.com'
